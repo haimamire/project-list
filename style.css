@@ -1,0 +1,17 @@
+/* My first css doc yay */
+
+* {
+    background-color: #FFFAF0;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    background-color: white;
+    font-family: "Bookerly", sans-serif;
+    text-align: left;
+}
