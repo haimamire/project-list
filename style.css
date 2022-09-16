@@ -1,17 +1,20 @@
 /* My first css doc yay */
 
 * {
-    background-color: #FFFAF0;
-    margin-left: 220px;
-    margin-right: 220px;
+    background-color: #FFFFFF;
+    font-family: "Bookerly", sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 h1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
+ul,
 li {
-    background-color: white;
-    font-family: "Bookerly", sans-serif;
+    background-color: #FFFAF0;
     text-align: left;
 }
